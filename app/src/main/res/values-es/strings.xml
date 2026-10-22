@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contador</string>
+    <string name="sError">Error</string>
+    <string name="nError">Error de navegador</string>
+</resources>

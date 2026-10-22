@@ -27,6 +27,9 @@ class DetalleActivity : AppCompatActivity() {
             startActivity(Intent(this, MainActivity::class.java))
             finish()
         }
+        val nombre = intent.getStringExtra("texto") ?: "Desconocido"
+        binding.textView1.text = nombre
+
     }
     override fun onStart() {
         super.onStart()

@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Contador</string>
-    <string name="titulo">Contador</string>
-    <string name="btn_sumar">Sumar</string>
-    <string name="btn_reiniciar">Reiniciar</string>
+    <string name="titulo" translatable="false">Contador</string>
+    <string name="btn_sumar" translatable="false">Sumar</string>
+    <string name="btn_reiniciar" translatable="false">Reiniciar</string>
+    <string name="sError">Error</string>
+    <string name="nError">Error de navegador</string>
 </resources>
